@@ -36,3 +36,4 @@ while (userInput !== "quit") {
   }
   userInput = prompt("What would you like to do?");
 }
+console.log("OK so you quit the app");
